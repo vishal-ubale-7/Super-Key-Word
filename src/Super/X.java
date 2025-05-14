@@ -7,7 +7,7 @@ public class X
         System.out.println("i am class in a");
     }
 }
-class Y extends X
+class Y extends X // extends class X
 {
     void show()
     {
